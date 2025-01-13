@@ -8,4 +8,4 @@ Entri data tersebut terpantau langsung oleh KORAMIL setempat, dan laporan akhir 
 
 Segera Rilis :
 
-Awal Desember 2024 ini.
+Pebruari 2025.
