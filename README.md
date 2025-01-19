@@ -6,6 +6,6 @@ Entri data tersebut terpantau langsung oleh KORAMIL setempat, dan laporan akhir 
 
 ---
 
-Segera Rilis :
+Unduh di :
 
-Pebruari 2025.
+https://gitlab.com/hajirodeon/kodim-tatalaksana-binter
