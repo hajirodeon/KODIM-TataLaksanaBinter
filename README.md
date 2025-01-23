@@ -9,3 +9,7 @@ Entri data tersebut terpantau langsung oleh KORAMIL setempat, dan laporan akhir 
 Unduh di :
 
 https://gitlab.com/hajirodeon/kodim-tatalaksana-binter
+
+---
+
+Bila mengalami kesulitan atau ingin mengambil layanan kastumisasi silahkan bisa kontak ke : hajirodeon@gmail.com atau WA : 081-829-88-54.
